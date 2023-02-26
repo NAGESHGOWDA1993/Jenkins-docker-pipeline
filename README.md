@@ -1,2 +1,1 @@
-# Jenkins-docker-pipeline
-Jenkins-docker-pipeline
+# jenkins-docker-example
